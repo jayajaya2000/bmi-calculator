@@ -1,4 +1,4 @@
-// BMI.js (React Component)
+
 
 import React, { useState } from 'react';
 import './BMI.css';
